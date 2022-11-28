@@ -8,12 +8,10 @@
 
 ## single cell clustering:
 
-### slides: TBD
-
 ### example codes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cDKPX-v4j8oP3Lq-mYDs4qFflhDASmnW?usp=sharing)
 
 ## singel cell trajectory inference
-### slides: TBD
+
 ### example codes: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zg3IQPqhHOwPT8rN6XwjaNy3004jKy_z?usp=sharing)
 
 # Reference
