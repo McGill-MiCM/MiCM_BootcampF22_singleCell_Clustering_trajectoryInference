@@ -19,6 +19,9 @@
 # Reference
 
 [Scanpy tutorial](https://scanpy.readthedocs.io/en/stable/tutorials.html)//
+
 [ScVelo tutorial](https://scvelo.readthedocs.io/VelocityBasics/)//
-[Introduction to single-cell RNA-seq analysis - Clustering](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2021/scRNAseq/Slides/clusteringSlides.html#1)//
+
+[Introduction to single-cell RNA-seq analysis - Clustering](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2021/scRNAseq/Slides/clusteringSlides.html#1)
+
 [Single cell RNA-seq analysis workshop](https://nbisweden.github.io/workshop-scRNAseq/labs/compiled/scanpy/scanpy_04_clustering.html)
